@@ -2,7 +2,7 @@
 	background-color: #2B2722;
 }
 .menu {
-	padding: 20px; 
+	
 	background-color: #96221E;
 	overflow: auto;
 }
@@ -24,4 +24,22 @@ li a{
 	padding:14px 16px;
 	text-decoration: none;
 	font-family: "Baloo Paaji";
+}
+/*.imagenes{
+	width: 800px;
+	background-color: #343434;
+	padding: 20px;
+}*/
+.image{
+
+	background-color: #6C6C6C;
+	color: whitesmoke;
+	padding: 10px;
+	margin-top: 20px;
+	margin-left: 35px;	
+	/*margin: 0 -1.5px; esto es para evitar el espacio */
+	display: inline-block;
+	box-sizing: border-box;
+	width: 197px;
+	/*Este numero lo obtuve desde el inspector de elementos*/
 }
